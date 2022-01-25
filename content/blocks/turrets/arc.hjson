@@ -1,4 +1,4 @@
 shootType: {
     type:LightningBulletType
-    lightningLength: 12
+    lightningLength: 120
 }
