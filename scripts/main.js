@@ -1,2 +1,1 @@
-require('BalancingIdeasFromdiscord/scripts/units/ground/support/vela.js')
-// require('BalancingIdeasFromdiscord/scripts/overide/main.js')
+require('balancing-ideas-from-mindustry-discord/scripts/units/ground/support/vela.js')
