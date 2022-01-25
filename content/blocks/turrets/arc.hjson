@@ -1,19 +1,4 @@
 shootType: {
     type:LightningBulletType
-    damage: 20
     lightningLength: 12
-    collidesAir: false
-    ammoMultiplier: 1
 }
-  reloadTime: 35
-  shootCone: 40
-  rotateSpeed: 8
-  powerUse = 3.3f;
-  targetAir = false;
-  range = 90f;
-  shootEffect = Fx.lightningShoot;
-  heatColor = Color.red;
-  recoilAmount = 1f;
-  size = 1;
-  health = 260;
-  shootSound = Sounds.spark;
