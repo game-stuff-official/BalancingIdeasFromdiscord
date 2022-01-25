@@ -1,1 +1,1 @@
-require('balancing-ideas-from-mindustry-discord/scripts/units/ground/support/vela.js')
+require('balancing-ideas-from-mindustry-discord/scripts/units/ground/support/vela')
