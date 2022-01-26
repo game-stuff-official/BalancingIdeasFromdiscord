@@ -1,2 +1,1 @@
-require('balancing-mindustry/units/vela')
-require("balancing-mindustry/blocks/arc");
+require('balancing-mindustry/units/vela');
