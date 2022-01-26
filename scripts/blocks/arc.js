@@ -1,5 +1,2 @@
-function rN(min, max) {
-  return Math.floor(Math.random() * (max - min) ) + min;
-};
-
-Blocks.arc.shootType.lightningLength = rN(5, 60);
+Blocks.arc.shootType.lightningLengthRand = 15;
+Blocks.arc.shootType.lightningLength = 25/2;
