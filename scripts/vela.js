@@ -1,1 +1,1 @@
-UnitTypes.vela.rotateSpeed = 2.07 * 10;
+UnitTypes.vela.rotateSpeed = 2.07 * 100;
