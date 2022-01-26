@@ -1,1 +1,1 @@
-require('balancing-ideas-from-mindustry-discord/vela')
+require('balancing-mindustry/vela')
