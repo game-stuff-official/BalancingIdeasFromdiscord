@@ -1,2 +1,2 @@
-require('balancing-mindustry/vela')
-require("balancing-mindustry/globalvar");
+require('balancing-mindustry/units/vela')
+require("balancing-mindustry/blocks/arc");
