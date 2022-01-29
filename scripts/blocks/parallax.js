@@ -1,1 +1,1 @@
-thing.requirements = [Items.copper, 1, Items.sillicon, 60;]
+Blocks.parallax.buildCost = ItemStack(Items.copper, 100);
