@@ -2,9 +2,6 @@
 //require('balancing-mindustry/blocks/parallax');
 //require('balancing-mindustry/blocks/atrax');
 
-// Parallax
-Blocks.parallax.requiremets = ItemStack.with(Items.copper, 1, Items.silicon, 60);
-
 // Vela
 UnitTypes.vela.rotateSpeed *= 1.15;
 UnitTypes.vela.boostMultiplier *= 3;
