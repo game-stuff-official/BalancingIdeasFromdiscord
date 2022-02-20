@@ -10,7 +10,7 @@ UnitTypes.vela.speed *= 4;
 // Atrax
 UnitTypes.atrax.legLength *= 4;
 UnitTypes.atrax.legCount *= 2;
-UnitTypes.atrax.speed *= 2;
+UnitTypes.atrax.speed *= -1 * 2;
 
 // Gamma
 UnitTypes.gamma.speed *= .5;
