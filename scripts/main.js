@@ -11,3 +11,8 @@ UnitTypes.vela.speed *= 4;
 UnitTypes.atrax.legLength *= 4;
 UnitTypes.atrax.legCount *= 2;
 UnitTypes.atrax.speed *= 4;
+
+
+// foreshaodow
+Blocks.foreshadow.reloadTime *= 2;
+Blocks.overdriveDome.speedBoost *= 2;
