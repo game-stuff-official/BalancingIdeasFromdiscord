@@ -12,7 +12,6 @@ UnitTypes.vela.speed *= 4;
 // Atrax
 UnitTypes.atrax.legLength *= 4;
 UnitTypes.atrax.legCount *= 2;
-UnitTypes.atrax.speed *= -1 * 2;
 
 // Gamma
 UnitTypes.gamma.speed *= .5;
@@ -20,7 +19,9 @@ UnitTypes.gamma.rotateSpeed *= .25;
 
 
 // foreshaodow
-Blocks.foreshadow.reloadTime *= 2;
+Blocks.foreshadow.reloadTime *= .5;
+
+// overdrive dome
 Blocks.overdriveDome.speedBoost *= 2;
 
 // power sorce
